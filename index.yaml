@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  gon-package:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-07-11T21:42:45.308409+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 47e64ff0a82a3478161dd3d9034156ca7c592ff9ed217accd71f92637b28a990
+    name: gon-package
+    type: application
+    urls:
+    - gon-package-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-07-11T21:42:45.304705+01:00"
